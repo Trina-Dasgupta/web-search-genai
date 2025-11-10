@@ -30,7 +30,6 @@ st.markdown("""
         margin-top: 2rem;
     }
     .stage-indicator {
-        background-color: #e3f2fd;
         padding: 10px 20px;
         border-radius: 5px;
         margin: 10px 0;
